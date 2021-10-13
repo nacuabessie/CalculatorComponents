@@ -1,0 +1,26 @@
+label.first{
+    font-size: 19px;
+    position: absolute;
+    left:25%;
+    font-weight: bold;
+    padding: 0%;
+    bottom: 65%;
+    
+}
+
+label.second{
+    font-size: 19px;
+    position: absolute;
+    left:25%;
+    font-weight: bold;
+    bottom: 48%;
+}
+
+input[type="text"]{
+    height: 40px;
+    width: 60%;
+    font-size: 20px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: #acb2f1;
+}
